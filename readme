@@ -1,0 +1,4 @@
+## Important notes during OPENMP Tutorial
+mod2.c - Intro to OPENMP
+mod3.c - About false sharing
+mod4.c - Resolution of false sharing using synchronization
